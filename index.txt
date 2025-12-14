@@ -1,1 +1,1 @@
-This is the new login feature code.
+This project is managed by GitHub.
